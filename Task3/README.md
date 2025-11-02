@@ -43,7 +43,11 @@ ACCOUNT3_KEY =
 npx hardhat test --network sepolia
 ```
 测试流程内容 
+
 1.初始部署
+
 2.进行拍卖
+
 3.代理升级 同时升级工厂和拍卖逻辑
+
 4.再拍卖 测试新功能
